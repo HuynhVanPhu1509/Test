@@ -1,0 +1,3 @@
+﻿  main.c
+c:\users\admin\documents\c,c++\bai_2_test\bai_2_test\main.c(5): warning C4244: 'initializing': conversion from 'short' to 'unsigned char', possible loss of data
+  bai_2_test.vcxproj -> C:\Users\ADMIN\Documents\C,C++\bai_2_test\Debug\bai_2_test.exe

@@ -1,0 +1,8 @@
+﻿  main.c
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(26): warning C4013: 'stradd' undefined; assuming extern returning int
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(26): warning C4013: 'len' undefined; assuming extern returning int
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(26): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(36): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(45): warning C4047: 'initializing': 'char *' differs in levels of indirection from 'int'
+c:\users\admin\documents\c,c++\bai_5_test\bai_5_test\main.c(14): warning C4715: 'kiem_tra': not all control paths return a value
+  bai_5_test.vcxproj -> C:\Users\ADMIN\Documents\C,C++\bai_5_test\Debug\bai_5_test.exe
